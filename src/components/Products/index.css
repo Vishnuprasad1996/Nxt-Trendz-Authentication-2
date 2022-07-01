@@ -1,0 +1,10 @@
+.prod-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.prod-img {
+  height: 150px;
+}
